@@ -2,6 +2,10 @@
 
 A theme for [Zed](https://zed.dev) inspired by Nyx, the goddess of the night.
 
+## Screenshots
+
+![Screenshot](screenshots/nyx-dark.png)
+
 ## Installation
 
 - Copy the `nyx.json` file from the `themes` folder in this repository into ~/.config/zed/themes.
