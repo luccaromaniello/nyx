@@ -145,7 +145,13 @@
         "warning": "#E09F3E",
         "warning.background": "#171923",
         "warning.border": "#E09F3E",
-        "players": [],
+        "players": [
+          {
+            "cursor": "#788aff",
+            "background": "transparent",
+            "selection": "#788aff1a"
+          }
+        ],
         "syntax": {
           "attribute": {
             "color": "#749eff",
