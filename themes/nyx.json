@@ -131,7 +131,7 @@
         "terminal.background": "#171923",
         "terminal.bright_foreground": null,
         "terminal.dim_foreground": null,
-        "terminal.foreground": null,
+        "terminal.foreground": "#f0f0f0",
         "text": "#f0f0f0",
         "text.accent": "#788aff",
         "text.disabled": null,
