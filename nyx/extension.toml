@@ -1,0 +1,7 @@
+id = "nyx"
+name = "Nyx"
+version = "1.0.0"
+schema_version = 1
+authors = ["luccaromaniello"]
+description = "A theme inspired by Nyx, the goddess of the night."
+repository = "https://github.com/luccaromaniello/nyx"

@@ -1,0 +1,223 @@
+{
+  "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
+  "name": "Nyx",
+  "author": "luccaromaniello",
+  "themes": [
+    {
+      "name": "Nyx",
+      "appearance": "dark",
+      "style": {
+        "background": "#171923",
+        "syntax": {
+          "boolean": {
+            "color": "#fda55e",
+            "font_style": null,
+            "font_weight": null
+          },
+          "number": {
+            "color": "#fda55e",
+            "font_style": null,
+            "font_weight": null
+          },
+          "function": {
+            "color": "#749eff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "type": {
+            "color": "#FFF3B0",
+            "font_style": null,
+            "font_weight": null
+          },
+          "punctuation.bracket": {
+            "color": "#a2a2a2",
+            "font_style": null,
+            "font_weight": null
+          },
+          "punctuation": {
+            "color": "#a2a2a2",
+            "font_style": null,
+            "font_weight": null
+          },
+          "punctuation.delimiter": {
+            "color": "#a2a2a2",
+            "font_style": null,
+            "font_weight": null
+          },
+          "punctuation.list_marker": {
+            "color": "#a2a2a2",
+            "font_style": null,
+            "font_weight": null
+          },
+          "punctuation.special": {
+            "color": "#dc92de",
+            "font_style": null,
+            "font_weight": null
+          },
+          "constant": {
+            "color": "#fda55e",
+            "font_style": null,
+            "font_weight": null
+          },
+          "variable": {
+            "color": "#f0f0f0",
+            "font_style": null,
+            "font_weight": null
+          },
+          "comment.doc": {
+            "color": "#878787",
+            "font_style": "italic",
+            "font_weight": null
+          },
+          "comment": {
+            "color": "#878787",
+            "font_style": "italic",
+            "font_weight": null
+          },
+          "constructor": {
+            "color": "#0fb4b4",
+            "font_style": null,
+            "font_weight": null
+          },
+          "keyword": {
+            "color": "#b4a3eb",
+            "font_style": null,
+            "font_weight": null
+          },
+          "property": {
+            "color": "#749eff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "string.regex": {
+            "color": "#59CD90",
+            "font_style": "italic",
+            "font_weight": null
+          },
+          "string": {
+            "color": "#59CD90",
+            "font_style": null,
+            "font_weight": null
+          },
+          "tag": {
+            "color": "#749eff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "attribute": {
+            "color": "#749eff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "editor.foreground": {
+            "color": null,
+            "font_style": null,
+            "font_weight": null
+          },
+          "variable.special": {
+            "color": "#fda55e",
+            "font_style": "italic",
+            "font_weight": null
+          },
+          "type.builtin": {
+            "color": "#b4a3eb",
+            "font_style": null,
+            "font_weight": null
+          },
+          "operator": {
+            "color": "#abd1f8",
+            "font_style": null,
+            "font_weight": null
+          },
+          "predictive": {
+            "color": "#878787",
+            "font_style": null,
+            "font_weight": null
+          },
+          "string.escape": {
+            "color": "#fda55e",
+            "font_style": null,
+            "font_weight": null
+          },
+          "label": {
+            "color": null,
+            "font_style": null,
+            "font_weight": null
+          },
+          "text.literal": {
+            "color": "#59CD90",
+            "font_style": null,
+            "font_weight": null
+          }
+        },
+        "players": [
+          {
+            "background": "transparent",
+            "selection": "#788aff1a",
+            "cursor": "#788aff"
+          }
+        ],
+        "background.appearance": "blurred",
+        "editor.background": "#171923",
+        "editor.foreground": "#f0f0f0",
+        "editor.active_line_number": "#b4a3eb",
+        "editor.active_wrap_guide": "#3d364561",
+        "editor.line_number": "#878787bf",
+        "icon.muted": "#788aff",
+        "icon.disabled": "#404040",
+        "tab_bar.background": "#13151b",
+        "tab.active_background": "#171923",
+        "text.muted": "#ffffffbf",
+        "error": "#d53437",
+        "error.border": "#d53437",
+        "warning": "#E09F3E",
+        "warning.border": "#E09F3E",
+        "warning.background": "#171923",
+        "error.background": "#171923",
+        "text": "#f0f0f0",
+        "panel.background": "#0e1017",
+        "status_bar.background": "#13151b",
+        "tab.inactive_background": "#0e1017",
+        "title_bar.background": "#0e1017",
+        "scrollbar_thumb.background": "#788aff1a",
+        "scrollbar.thumb.hover_background": "#788affab",
+        "border": "#788aff21",
+        "toolbar.background": "#171923",
+        "terminal.background": "#171923",
+        "terminal.dim_foreground": null,
+        "terminal.bright_foreground": null,
+        "terminal.foreground": "#f0f0f0",
+        "status_bar.foreground": null,
+        "tab.active_foreground": null,
+        "editor.active_line.background": "#788aff12",
+        "scrollbar.track.border": "#171923",
+        "surface.background": null,
+        "search.match_background": "#788aff",
+        "editor.gutter.background": "#171923",
+        "text.placeholder": "#ffffff8f",
+        "icon": "#f0f0f0",
+        "text.accent": "#788aff",
+        "predictive": "#878787",
+        "link_text.hover": "#788aff",
+        "elevated_surface.background": "#0e1017",
+        "created": "#59CD90",
+        "ghost_element.hover": "#788aff12",
+        "terminal.ansi.green": "#59CD90",
+        "terminal.ansi.red": "#9E2A2B",
+        "modified": "#FFF3B0",
+        "terminal.ansi.cyan": "#6fffe9",
+        "terminal.ansi.blue": "#749eff",
+        "terminal.ansi.magenta": "#d90368",
+        "hint": "#788affa6",
+        "panel.overlay_hover": "#171923",
+        "icon.accent": "#788aff",
+        "element.background": "#171923",
+        "minimap.thumb.hover_background": "#788affab",
+        "version_control.added": "#59CD90",
+        "version_control.modified": "#FFF3B0"
+      }
+    }
+  ],
+  "isUserGenerated": true,
+  "description": "A theme inspired by Nyx, the goddess of the night."
+}
